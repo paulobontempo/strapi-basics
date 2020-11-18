@@ -1,7 +1,7 @@
 {
   "name": "brb_abertura_conta",
   "version": "0.0.1",
-  "author": "Ionic Framework",
+  "author": "Zello Tecnologia",
   "homepage": "https://ionicframework.com/",
   "scripts": {
     "ng": "ng",
@@ -52,5 +52,5 @@
     "tslint": "~6.1.0",
     "typescript": "~3.9.5"
   },
-  "description": "An Ionic project"
+  "description": "Aplicativo de abertura de contao do BRB"
 }
