@@ -1,0 +1,7 @@
+{
+  "name": "brb_abertura_conta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
